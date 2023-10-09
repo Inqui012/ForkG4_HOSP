@@ -22,6 +22,9 @@
  * [FullCalendar API](https://fullcalendar.io/)
  * WebSocket
    
+## 상세
+![포트폴리오_-_팀_순양병원_page-0001](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/eac42ad8-6c17-4c2c-b2b3-a4c68d807bbc)
+
 ## 프로젝트 갠트차트
 ![프로젝트 갠트 차트_page-0001](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/0caf2a97-5337-4f98-8523-e692fb758c35)
 
