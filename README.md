@@ -21,9 +21,16 @@
 
  * [FullCalendar API](https://fullcalendar.io/)
  * WebSocket
+   
+## 프로젝트 갠트차트
+![프로젝트 갠트 차트_page-0001](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/0caf2a97-5337-4f98-8523-e692fb758c35)
+
+## 요구사항 정의서
+![요구사항 정의서_pages-to-jpg-0001](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/3559366b-6452-4100-8330-056fda082c49)
 
 ## ERD 설계
 ![ERD](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/51507b08-2c27-4db9-a6ff-007d97e8c542)
 
 ## 담당 페이지 화면구성
-![정은아_순양병원-예약 채팅 와이어프레임.pdf](https://github.com/Inqui012/ForkG4_HOSP/files/12843254/_.-.pdf)
+![정은아_순양병원-예약 채팅 와이어프레임_pages-to-jpg-0001](https://github.com/Inqui012/ForkG4_HOSP/assets/20105677/20501edb-c96c-478e-abad-84e694d79288)
+
